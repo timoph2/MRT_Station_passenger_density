@@ -28,8 +28,7 @@ function DataFilter(props) {
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(postData)
     } 
-    console.log(process.env.BACKEND_ENDPOINT)
-    mrtData = await fetch("http://lta-be-alb-1245576723.ap-southeast-1.elb.amazonaws.com/data" , requestOptions)
+    mrtData = await fetch(process.env.BACKEND_ENDPOINT, requestOptions)
     mrtData = await mrtData.json()
     props.setMrtData(mrtData)
   }; 

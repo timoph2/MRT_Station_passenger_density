@@ -13,7 +13,7 @@ const app = express();
 const port = process.env.PORT || 3001;
 const corsOptions = {
   // origin: 'http://localhost:3000',
-  origin: "http://lta-fe-alb-1597805.ap-southeast-1.elb.amazonaws.com",
+  origin: process.env.REACT_APP_ENDPOINT,
   optionsSuccessStatus: 200,
 }
 
