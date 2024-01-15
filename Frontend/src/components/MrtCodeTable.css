@@ -1,0 +1,13 @@
+table, tr{
+  border: 1px solid black;
+  padding: 2px;
+  margin: 0 20px 10px;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(160,160,160);
+}
+
+td {
+  vertical-align: middle;
+}

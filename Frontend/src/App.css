@@ -1,0 +1,9 @@
+body {
+  background: slategray;
+  background-image: url('https://www.hlas.com.sg/wp-content/uploads/2020/02/20200206-MRT.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  overflow-x: hidden;
+}

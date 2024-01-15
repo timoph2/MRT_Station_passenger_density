@@ -1,0 +1,35 @@
+.chartContainer{
+  width: 80%; 
+  height: 40%;
+  padding: 15px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hidden {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.1s ease-in-out;
+  }
+
+.visible {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.2s ease-in-out;
+}
+ 
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tableContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

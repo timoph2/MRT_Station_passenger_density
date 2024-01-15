@@ -1,0 +1,303 @@
+[  
+  {
+  "YEAR_MONTH": "2023-11",
+  "DAY_TYPE": "WEEKENDS/HOLIDAY",
+  "TIME_PER_HOUR": "9",
+  "PT_TYPE": "TRAIN",
+  "PT_CODE": "SW7",
+  "TOTAL_TAP_IN_VOLUME": "1760",
+  "TOTAL_TAP_OUT_VOLUME": "492"
+},
+
+{
+  "YEAR_MONTH": "2023-11",
+  "DAY_TYPE": "WEEKENDS/HOLIDAY",
+  "TIME_PER_HOUR": "22",
+  "PT_TYPE": "TRAIN",
+  "PT_CODE": "DT13",
+  "TOTAL_TAP_IN_VOLUME": "3188",
+  "TOTAL_TAP_OUT_VOLUME": "2413"
+},  
+{
+  "YEAR_MONTH": "2023-11",
+  "DAY_TYPE": "WEEKENDS/HOLIDAY",
+  "TIME_PER_HOUR": "9",
+  "PT_TYPE": "TRAIN",
+  "PT_CODE": "SW7",
+  "TOTAL_TAP_IN_VOLUME": "1760",
+  "TOTAL_TAP_OUT_VOLUME": "492"
+},
+
+{
+  "YEAR_MONTH": "2023-11",
+  "DAY_TYPE": "WEEKENDS/HOLIDAY",
+  "TIME_PER_HOUR": "22",
+  "PT_TYPE": "TRAIN",
+  "PT_CODE": "DT13",
+  "TOTAL_TAP_IN_VOLUME": "3188",
+  "TOTAL_TAP_OUT_VOLUME": "2413"
+},
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "9",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "SW7",
+    "TOTAL_TAP_IN_VOLUME": "1760",
+    "TOTAL_TAP_OUT_VOLUME": "492"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT13",
+    "TOTAL_TAP_IN_VOLUME": "3188",
+    "TOTAL_TAP_OUT_VOLUME": "2413"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT13",
+    "TOTAL_TAP_IN_VOLUME": "8907",
+    "TOTAL_TAP_OUT_VOLUME": "5649"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "23",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NE14",
+    "TOTAL_TAP_IN_VOLUME": "1107",
+    "TOTAL_TAP_OUT_VOLUME": "9045"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "23",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NE14",
+    "TOTAL_TAP_IN_VOLUME": "2203",
+    "TOTAL_TAP_OUT_VOLUME": "19782"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NS9/TE2",
+    "TOTAL_TAP_IN_VOLUME": "26021",
+    "TOTAL_TAP_OUT_VOLUME": "62395"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NS9/TE2",
+    "TOTAL_TAP_IN_VOLUME": "13402",
+    "TOTAL_TAP_OUT_VOLUME": "26077"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT22",
+    "TOTAL_TAP_IN_VOLUME": "7208",
+    "TOTAL_TAP_OUT_VOLUME": "8577"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT22",
+    "TOTAL_TAP_IN_VOLUME": "4868",
+    "TOTAL_TAP_OUT_VOLUME": "6550"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "18",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT28",
+    "TOTAL_TAP_IN_VOLUME": "6101",
+    "TOTAL_TAP_OUT_VOLUME": "6315"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "18",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT28",
+    "TOTAL_TAP_IN_VOLUME": "39525",
+    "TOTAL_TAP_OUT_VOLUME": "26047"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT34",
+    "TOTAL_TAP_IN_VOLUME": "5573",
+    "TOTAL_TAP_OUT_VOLUME": "4300"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT34",
+    "TOTAL_TAP_IN_VOLUME": "2726",
+    "TOTAL_TAP_OUT_VOLUME": "1689"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "9",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "SW7",
+    "TOTAL_TAP_IN_VOLUME": "4448",
+    "TOTAL_TAP_OUT_VOLUME": "1133"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "9",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "SW7",
+    "TOTAL_TAP_IN_VOLUME": "1760",
+    "TOTAL_TAP_OUT_VOLUME": "492"
+  },
+  
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT13",
+    "TOTAL_TAP_IN_VOLUME": "3188",
+    "TOTAL_TAP_OUT_VOLUME": "2413"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT13",
+    "TOTAL_TAP_IN_VOLUME": "8907",
+    "TOTAL_TAP_OUT_VOLUME": "5649"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "23",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NE14",
+    "TOTAL_TAP_IN_VOLUME": "1107",
+    "TOTAL_TAP_OUT_VOLUME": "9045"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "23",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NE14",
+    "TOTAL_TAP_IN_VOLUME": "2203",
+    "TOTAL_TAP_OUT_VOLUME": "19782"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NS9/TE2",
+    "TOTAL_TAP_IN_VOLUME": "26021",
+    "TOTAL_TAP_OUT_VOLUME": "62395"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "22",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "NS9/TE2",
+    "TOTAL_TAP_IN_VOLUME": "13402",
+    "TOTAL_TAP_OUT_VOLUME": "26077"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT22",
+    "TOTAL_TAP_IN_VOLUME": "7208",
+    "TOTAL_TAP_OUT_VOLUME": "8577"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT22",
+    "TOTAL_TAP_IN_VOLUME": "4868",
+    "TOTAL_TAP_OUT_VOLUME": "6550"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "18",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT28",
+    "TOTAL_TAP_IN_VOLUME": "6101",
+    "TOTAL_TAP_OUT_VOLUME": "6315"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "18",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT28",
+    "TOTAL_TAP_IN_VOLUME": "39525",
+    "TOTAL_TAP_OUT_VOLUME": "26047"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT34",
+    "TOTAL_TAP_IN_VOLUME": "5573",
+    "TOTAL_TAP_OUT_VOLUME": "4300"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "12",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "DT34",
+    "TOTAL_TAP_IN_VOLUME": "2726",
+    "TOTAL_TAP_OUT_VOLUME": "1689"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKDAY",
+    "TIME_PER_HOUR": "9",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "SW7",
+    "TOTAL_TAP_IN_VOLUME": "4448",
+    "TOTAL_TAP_OUT_VOLUME": "1133"
+  },
+  {
+    "YEAR_MONTH": "2023-11",
+    "DAY_TYPE": "WEEKENDS/HOLIDAY",
+    "TIME_PER_HOUR": "9",
+    "PT_TYPE": "TRAIN",
+    "PT_CODE": "SW7",
+    "TOTAL_TAP_IN_VOLUME": "1760",
+    "TOTAL_TAP_OUT_VOLUME": "492"
+  }
+  
+]
