@@ -1,0 +1,21 @@
+.historyContainer{
+    margin: auto;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: 	rgb(200,200,200);
+    width: 600px;
+    height: 700px;
+}
+
+.historyTable { 
+    text-align: center;
+    width: 550px;
+    height: 350px;
+} 
+
+table, th, td {
+    border: 1px solid black;
+  }

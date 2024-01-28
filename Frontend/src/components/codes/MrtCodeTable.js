@@ -1,5 +1,5 @@
 import React from 'react' 
-import { allStationData } from '../data/stationData'
+import { allStationData } from '../../data/stationData'
 import './MrtCodeTable.css'
 
 function MrtCodeTable(props) { 
@@ -25,8 +25,6 @@ function MrtCodeTable(props) {
       </table>
     );
   });
-
-
 
 
   return <>

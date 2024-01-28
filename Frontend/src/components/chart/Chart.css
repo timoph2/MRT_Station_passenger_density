@@ -33,3 +33,14 @@
   align-items: center;
   flex-wrap: wrap;
 }
+
+.titleDescription{
+  width: 400px;
+  height: 100px;
+  background: 	rgb(200,200,200);
+  text-align: center;
+  border: 1px solid #787878;
+  margin: auto;
+}
+
+ 

@@ -1,0 +1,75 @@
+.tablesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: 	rgb(200,200,200);
+  border: 1px solid rgb(120,120,120);
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+} 
+
+h3 {
+  text-align: center;
+  padding: 30px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+.hidden {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.1s ease-in-out;
+}
+
+.visible {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.2s ease-in-out;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+
+.NEBorder {
+  border-bottom: 6px solid rgb(191, 64, 191);
+}
+
+.TEBorder {
+  border-bottom: 6px solid rgb(139,69,19);
+}
+
+.NSBorder {
+  border-bottom: 6px solid rgb(210, 4, 45);
+}
+
+.CCBorder {
+  border-bottom: 6px solid rgb(255, 215, 0);
+}
+
+.DTBorder {
+  border-bottom: 6px solid rgb(0, 150, 255);
+}
+
+.EWBorder {
+  border-bottom: 6px solid rgb(34, 139, 34);
+}

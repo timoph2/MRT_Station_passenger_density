@@ -1,5 +1,5 @@
 import React from 'react'
-import mrtData from "../data/mrtData.json";
+import mrtData from "../../data/mrtData.json";
 import './DataFilter.css';
 
 function DataFilter(props) { 
@@ -17,22 +17,36 @@ function DataFilter(props) {
     }
     props.setDisplayedFilter(displayData)
 
+    const dateOptions = {
+      timeZone: 'Asia/Singapore',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+      hour: 'numeric', 
+      minute: '2-digit',
+      hour12: false  
+    };
+    
+    const currentDateTime = new Date().toLocaleString('en-US', dateOptions);
+
     const postData = {
       yearMonth : props.selectedYearMonth,
       trainLine: props.selectedTrainLine,
       time : props.selectedTime,
-      dayType : props.selectedDayType
+      dayType : props.selectedDayType,
+      dateTimeSearched : currentDateTime
     }
     const requestOptions = {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(postData)
-    } 
-    mrtData = await fetch(process.env.BACKEND_ENDPOINT, requestOptions)
+    }  
+    // console.log(process.env.BACKEND_ENDPOINT)
+    mrtData = await fetch(`${process.env.REACT_APP_BACKEND_ENDPOINT}/api/v1/chart/data` , requestOptions)
+    // mrtData = await fetch("http://localhost:3001/api/v1/chart/data", requestOptions)
     mrtData = await mrtData.json()
     props.setMrtData(mrtData)
-  }; 
-  
+  };  
     return (
       <div className='dataContainer'>
         <u>Filter by:</u>

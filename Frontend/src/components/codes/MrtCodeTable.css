@@ -4,7 +4,7 @@ table, tr{
   margin: 0 20px 10px;
 }
 
-tr:nth-child(even) {
+tr:nth-child(odd) {
   background-color: rgb(160,160,160);
 }
 

@@ -1,0 +1,10 @@
+ .contactContainer{
+  background: 	rgb(200,200,200);
+  height: 260px;
+  width: 395px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid rgb(120,120,120);
+  line-height: 1.5;
+ }
+ 

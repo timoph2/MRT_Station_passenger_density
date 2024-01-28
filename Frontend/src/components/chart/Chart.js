@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { Bar } from "react-chartjs-2";
 import { Chart as ChartJS, defaults } from "chart.js/auto";
 import DataFilter from './DataFilter';
-import MrtCodeTable from './MrtCodeTable'
+import MrtCodeTable from '../codes/MrtCodeTable'
 import './Chart.css';
 
 defaults.responsive = true;
@@ -39,7 +39,7 @@ function Chart() {
         <div className = {`chartContainer ${isVisible ? 'visible' : 'hidden'}`}>
           <Bar
             data={{
-              labels: mrtData.map((data) => data.PT_CODE),
+              labels: mrtData.map((data) => data.stationName),
               datasets: [
                 { label: "Tap in",
                   data: mrtData.map((data) => data.TOTAL_TAP_IN_VOLUME),
@@ -57,12 +57,12 @@ function Chart() {
                   text: `Passengers per MRT station: [${displayedFilter.trainLine} Line], [${displayedFilter.yearMonth}], at [${displayedFilter.time}] on [${displayedFilter.dayType}]`,
                 },
               },
-              width: 1, // Specify the width of the chart
-              height: 400, // Specify the height of the chart
+              width: 1,    // width of chart
+              height: 400, // height of chart
             }}
             />
 
-            <div className='tableContainer'>
+            <div className={`tableContainer ${selectedTrainLine}Border`}>
               <MrtCodeTable selectedTrainLine={displayedFilter.trainLine} rows={10} />
             </div>
         </div>

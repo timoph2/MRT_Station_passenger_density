@@ -1,6 +1,6 @@
 body {
   background: slategray;
-  background-image: url('https://www.hlas.com.sg/wp-content/uploads/2020/02/20200206-MRT.jpg');
+  background-image: url('../public/images/mrt.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

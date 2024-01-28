@@ -1,8 +1,9 @@
-export interface SelectedFilters {
+export interface SelectedFiltersRequest {
     yearMonth: string;
     trainLine: string;
     time: string;
     dayType: string;
+    dateTimeSearched? : string
   }
   
 export interface StationData {

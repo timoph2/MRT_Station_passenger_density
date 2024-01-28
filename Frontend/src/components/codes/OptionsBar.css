@@ -1,0 +1,50 @@
+.sidebarContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sideBtn {
+  background: grey;
+  margin: 20px;
+  padding: 20px;
+  width:  100px 
+}
+
+
+.NE {
+  border-bottom: 7px solid rgb(191, 64, 191);
+  outline: 2px solid black;
+  margin: 10px;
+}
+
+.TE {
+  border-bottom: 7px solid rgb(139,69,19);
+  outline: 2px solid black;
+  margin: 10px;
+}
+
+.NS {
+  border-bottom: 7px solid rgb(210, 4, 45);
+  outline: 2px solid black;
+  margin: 10px;
+}
+
+.CC {
+  border-bottom: 7px solid rgb(255, 215, 0);
+  outline: 2px solid black;
+  margin: 10px;
+}
+
+.DT {
+  border-bottom: 7px solid rgb(0, 150, 255);
+  outline: 2px solid black;
+  margin: 10px;
+}
+
+.EW {
+  border-bottom: 7px solid rgb(34, 139, 34);
+  outline: 2px solid black;
+  margin: 10px;
+}
+ 
