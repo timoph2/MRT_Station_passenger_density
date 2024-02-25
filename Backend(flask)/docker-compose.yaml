@@ -1,0 +1,69 @@
+version: "3.8"
+services: 
+  pythonbackend:
+    build: ./ # path to dockerfile 
+    container_name: pythonbackend
+    ports:  # - means list item
+      - '3001:3001'
+
+  reactfrontend:
+    build: ../LTA_proj(FE_python)  
+    container_name: reactfrontend
+    ports:   
+      - '3000:3000'
+
+# docker-compose up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # volumes:
+      # - ./app/node_modules   #to keep the node modules
+      # - ./folderName:/folderName  #colon means to map which folder of this container folder to irl comptuter folder
+
+
+# docker-compose up
+# docker-compose down, to remove & delete container
+# docker-compose down --rmi all -v, to delete image & volume too 
+
+
+# docker system prune, to remove all vol, images,
